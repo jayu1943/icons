@@ -15,7 +15,7 @@ profile:
 experimental:
   sniff-tls-sni: true
 proxies:
-  - {name: "Traffic: 56.11 GB / 200 GB", server: oss-guangzhou.solidigm-zxcv.com, port: 20001, type: trojan, password: B8AD60CD-6CD2-116D-0723-FA78C955103A, sni: cos.ap-shanghai.myqcloud.com, skip-cert-verify: true, udp: true}
+  - {name: "Traffic: 58.96 GB / 200 GB", server: oss-guangzhou.solidigm-zxcv.com, port: 20001, type: trojan, password: B8AD60CD-6CD2-116D-0723-FA78C955103A, sni: cos.ap-shanghai.myqcloud.com, skip-cert-verify: true, udp: true}
   - {name: "Expire: 2026-02-17", server: oss-guangzhou.solidigm-zxcv.com, port: 20001, type: trojan, password: B8AD60CD-6CD2-116D-0723-FA78C955103A, sni: cos.ap-shanghai.myqcloud.com, skip-cert-verify: true, udp: true}
   - {name: 🇭🇰 Hong Kong | 01, server: oss-guangzhou.solidigm-zxcv.com, port: 20001, type: trojan, password: B8AD60CD-6CD2-116D-0723-FA78C955103A, sni: cos.ap-shanghai.myqcloud.com, skip-cert-verify: true, udp: true}
   - {name: 🇭🇰 Hong Kong | 02, server: oss-guangzhou.solidigm-zxcv.com, port: 20003, type: trojan, password: B8AD60CD-6CD2-116D-0723-FA78C955103A, sni: cos.ap-shanghai.myqcloud.com, skip-cert-verify: true, udp: true}
@@ -87,7 +87,7 @@ proxy-groups:
       - SG
       - TW
       - US
-      - "Traffic: 56.11 GB / 200 GB"
+      - "Traffic: 58.96 GB / 200 GB"
       - "Expire: 2026-02-17"
       - 🇭🇰 Hong Kong | 01
       - 🇭🇰 Hong Kong | 02
